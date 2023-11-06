@@ -1,0 +1,1035 @@
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (1).txt
+************************************************************************
+Let’s now summarize some key
+lessons about financial engineering. The previous lessons showed that startup
+valuation is more an art than science. There is room for bargaining and the
+quality of an entrepreneurial team makes a great difference in terms
+of perceived risks and benefits. When you launch your company, remember not to give founders’
+equity to non-strategic associates. There are other ways of incentivizing
+and compensating them, like commissions, stock
+options and bonuses. Conversely, do not try
+to keep a majority stake if it impedes your company’s growth. When it comes to raising new equity, never forget that a capital increase
+represents your acceptance to share information and the control
+of your company with new investors. Make sure that their long term
+goals are compatible with yours before you accept their money. Also, do not plan more than
+one capital increase per year. It usually takes six
+months to get the money. You should raise enough equity to reach the next significant
+technical or commercial milestone and you should anticipate delays, which are very frequent
+in the world of startups. In the same vein, it is sometimes
+as difficult to get $100k as $1M. If your pre-money
+valuation is not too low, raise as much money as you can, because you will certainly need
+more than initially planned. Having said this, you should
+work with professionals to maximize the probability
+of finding the best investors. You should hire a fundraiser
+and as well as seasoned lawyer to assist you in the
+fundraising process. Look for smart money and have a plan B. There is currently a lot of money
+available to finance ambitious projects, but not all investors are equal. Hence, look for smart
+money, not just any money. Smart money providers are mainly
+experienced and renowned investors, who will open many doors and
+boost your company’s prospects. When you contact potential
+investors, the initial stages are crucial. Be conscious of their
+main screening criteria. They almost always focus
+on the team and the market. If you succeed in signing a term
+sheet, even a very detailed one, don’t forget this is still the
+beginning of the negotiation and the deal can be
+canceled at the last minute. Don’t lose momentum in
+a fundraising process, otherwise your bargaining
+power will decrease and you may risk being obliged
+to accept less favorable terms. You should always have a plan B,
+to be free to refuse a bad deal. Once you make a deal,
+you will have to manage the interdependence
+among all the shareholders, including the alignment of
+interests and the power relations. Therefore, you should never try to
+maximize the pre-money valuation without considering other key issues
+like the VC’s network, reputation and the touchiest provisions
+of a shareholders’ agreement like liquidation preferences,
+ratchets and bad leaver clauses. Even a generous valuation is just
+virtual wealth for you and your associates. You will only be rich once cashed out. Do not make overly sophisticated
+deals. Keep it simple. The essence of a deal can generally
+be summarized on a single page and may be sealed by a handshake. I have personally never seen
+contracts as thick as Tolstoy's diaries, be more effective than a relatively
+simply formulated win-win deal. But you should really work with the
+best legal and financial professionals to reach a balance where the interests
+of all shareholders are durably aligned. Corporate finance is
+seldom rocket science. After these few lessons, you have probably noticed that
+corporate finance is not rocket science. Most concepts are quite simple, and they are even mundane if you
+begin to play with my Excel tools. The valuation concepts
+introduced in this module do not apply only to VC financing. You may apply the same reasoning
+to carry out a capital increase involving your friends,
+family or business angels. Numerous financial mechanisms
+exist to reduce valuation gaps between founders and new investors, but the essence of startup
+financing is a win-win game. Investors seldom win when
+the entrepreneurs lose, and the opposite is also true. Finally, your ambition and your
+ability to deliver are more important than a financial forecast. This is only the translation
+of those elements. What about funding the ideal startup? What are some of the
+main evaluation criteria considered by prospective
+investors in a startup? For an investor in a startup,
+the main evaluation criterion is the entrepreneurial team. The business plan is only one
+aspect of the due diligence process. In a business plan, the financial
+forecasts are highly summarized because investors do not expect
+to deal with chartered accountants. Let me reiterate what
+professional investors look for in an investment proposal. A good business plan
+presents a real need, a credible offer to
+meet such a need, an ambitious and professional
+team, a clear market, a real value proposition, a competitive
+advantage to beat the competition, a clear roadmap and data
+proving one’s assumptions. In other words, you should use
+storytelling to present a real pain point expressed by a clearly
+defined market segment, treated by an exclusive technology
+and an adapted solution. Your team should inspire trust for its
+competence and entrepreneurial drive. You should also be able to define
+and quantify your value proposition and position yourself in
+relation to your competitors. Your financial forecasts should reflect credible commercial and
+technical milestones and you should have ample
+data to demonstrate that there is already some traction. If you address all these
+items in a convincing way, you will probably schedule
+numerous meetings with potential financial backers, who will be eager to meet you in person to check what is behind your executive
+summary and/or your slide deck.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (10).txt
+************************************************************************
+Welcome to lesson 3. In the previous lessons of this module, we discussed the mechanism
+of a capital increase and presented the methods and
+tools used to value a company. In this lesson, we will speak about term
+sheets and shareholders’ agreements, which are documents that encode
+the various terms and conditions of a capital increase. Let’s go back to the process
+of a capital increase. First let me ask you a question. What are the situations
+leading to a capital increase? The founder of a startup will
+generally conduct a capital increase when new capital or talent is
+needed to finance or support the technical and/or commercial
+development of the company. The new shareholders will
+generally be minority shareholders, although after several
+rounds of financing outside investors may
+control your company. When you decide whether to
+bring any given potential investors into the capital of your company, the negotiated pre-money
+valuation is an important criterion but it should not be the only one. An investment proposal
+with a higher valuation may actually be less favorable
+than another investment proposal with a lower valuation
+because of other differences between the proposed deals. In most cases, professional
+investors, like venture capital funds, negotiate a series of terms with the
+existing owners of the company in which they invest
+to align the interests of all or at least the main shareholders. These terms are summarized
+in a term sheet and, ultimately, in a
+shareholders’ agreement that is signed by all of the
+company’s shareholders or sometimes only between the
+principal existing shareholders and the new investors. Almost no professional investor
+will fund an early stage company without such a shareholders’ agreement because such investors
+are quite demanding and they will not consider the
+negotiated valuation of your company to be enough to frame
+your relationship. Sometimes, a company’s
+charter is not enough. Normally, the relationships among a
+company’s shareholders are governed by its constitutional
+documents or charter. A company’s charter includes
+articles of incorporation which regulate the company's
+relationships with outside parties. The articles of incorporation are
+generally filed for public reference. Articles of association, or bylaws that
+regulate the company’s management, internal procedures and financing. The articles of association
+are often private but have to be filed
+publicly in some countries. A company’s charter therefore
+contains public information and it may be rather expensive
+to amend it substantially in connection with
+each capital increase. A shareholders’ agreement
+is usually desirable to allow for greater
+confidentiality and flexibility as well as to protect the
+interests of minority shareholders. In any case, a shareholders’
+agreement is not a mundane document and legal DIY can be much
+costlier at the end of the day than working with a top-tier
+lawyer to negotiate a win-win deal between founders and investors. Your lawyer will help you negotiate
+the agreement with the VC’s lawyers, because an entrepreneur cannot
+constantly be at the front line of such a complex transaction. Let’s now examine some key components
+of a shareholders’ agreement. Although each contract
+is highly customized, shareholders’ agreements for
+startups address the following topics. First, the contract specifies the parties
+and the main goals of the agreement, such as objectives related to liquidity. Second, the contract regulates
+voting rights and the ownership of the company’s shares
+in various circumstances. Third, the contract regulates
+the management of the company, notably the composition of the
+board of directors and voting rules for some specific corporate resolutions. Last but not least, the contract
+includes provisions for the resolution of future potential disputes
+between shareholders. Such shareholders’ agreements
+can be more than 20 pages long and signing numerous original
+copies for all the shareholders can be quite time-consuming. The key parties to such a contract
+are the venture capital investors on the one hand and
+the founders on the other. Other minority shareholders may sign
+a reduced version of this contract, including rights and duties related
+to the sale of their shares. Before a shareholders’
+agreement is drafted, entrepreneurs should negotiate
+a rather detailed term sheet addressing the key items of the
+future shareholders’ agreement. Otherwise, the negotiation of the
+shareholders’ agreement may last a while and some private equity funds may
+come up with unexpected conditions that may put you in a corner. Many entrepreneurs have
+experienced this painful situation. That’s why you should, again,
+work with seasoned lawyers and make the deal as clear as possible. Let’s now analyze a typical term sheet
+and explain some touchy clauses.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (11).txt
+************************************************************************
+Welcome back. In the last video, we explained the
+importance of a shareholders’ agreement and noted some of its key components. In this video, we will examine some of
+the major items addressed in a term sheet and eventually in the
+shareholders’ agreement. You can download
+numerous free term sheets and shareholders’ agreement templates, but it is often difficult for
+a first-time entrepreneur to understand some major items
+such as liquidity, drag-along or tag-along rights,
+liquidation preferences or even “bad leaver”
+and ratchet clauses. Let’s explain some of these items to understand what VCs
+and entrepreneurs tend to negotiate so as to
+preserve their interests. A group of French tech entrepreneurs
+created “The Galion Project”, a think tank for entrepreneurs
+hoping to create high-growth startups that may become tomorrow’s unicorns. The founder of this think
+tank is Jean-Baptiste Rudelle, a serial entrepreneur who among
+other things, created Criteo, a personalized retargeting
+company launched in 2005 that went public eight years later
+on the NASDAQ Stock Exchange. Pierre Kosciusko-Morizet,
+the cofounder of PriceMinister, is also a member of the
+Board of this association, whose motto is “think and play”. The Galion Project
+organizes informal meetings, notably for entrepreneurs
+passionate about kitesurfing, but this is another story. Let me just focus on some documents
+shared by this group of entrepreneurs. One of these documents is
+a typical series A term sheet, which you can find among
+the materials for this lesson. This document was created with
+the help of two prominent law firms and is already used by several VC firms. The document is made up of 32 items which are a good starting
+point for negotiation between entrepreneurs and investors. Some “hard” contractual clauses like
+ratchets are absent from this term sheet, which is quite reassuring
+for an entrepreneur. However, the term sheet
+is not totally favorable for the founders of a new venture and you should not accept everything if you have a strong
+bargaining position. Let’s now analyze some of the
+clauses contained in this term sheet. A liquidity clause is essential, because it demonstrates that seed-stage
+and venture capital investors do not intend to hold shares
+of your company forever. As we have already seen, they will
+want to exit as quickly as possible, preferably within five years. Liquidity is seen mainly as
+the sale of your company or an IPO on a
+recognized stock exchange. If such a liquidity event is not achieved
+in five years for series A investors, they generally negotiate the right
+to require the Board of the company to hire a recognized investment bank
+to sell the company or initiate an IPO. Such a clause probably explains why the French VC-backed
+fintech Le Compte Nickel was sold just five years
+after its incorporation. This “nickel account” helped
+people open a bank account with licensed owners of small
+French shops called “tabacs” with just an ID card and €20. The nickel account system
+doesn’t allow an overdraft but it is a serious competitor
+for traditional retail banks. This startup was acquired in
+2017 for more than €200M by a leading European bank, which is quite funny for a fintech whose initial claim was to be
+“the bank account without a bank”. Now, let’s move to
+another type of clause. Do you know what drag-along
+and tag-along clauses are? Drag-along clauses are a consequence of private equity
+investors’ liquidity target. Such clauses state that all shareholders will be required to sell their
+shares if an offer is made by any third party to acquire all
+of the shares in the company, provided that such an offer is accepted by the holders of more
+than a certain percentage, i.e. 75% of the company’ shares. A drag-along clause prevents
+minority shareholders from refusing to sell their
+shares to get a higher price or any other reason. Symmetrically, tag-along rights,
+also called co-sale rights, are clauses that protect
+minority shareholders if majority shareholders or other
+shareholders wish to sell to a third party. In such a case, minority shareholders
+have the right to join the transaction. Otherwise, their shareholding
+could become almost worthless because any acquirer could
+obtain control of a company without dealing with them. Let’s move to liquidation preferences. Liquidation preferences are a key
+item sometimes imposed by investors to preserve their return in
+case of a potential downsize. Concretely, the liquidation
+preference clause in the term sheet from the
+Galion Project specifies, “In the event of a liquidation,
+dissolution, winding up, merger, sale or other disposition of
+the assets of the company in which the shareholders
+do not own a majority of the outstanding shares
+of the surviving entity, the holders of the Series A shares
+shall be entitled to receive, in preference to all other shareholders, a per share amount equal to
+the price per share they paid when they financed the company. Thereafter, the remaining
+proceeds (if any) shall be distributed pro rata to the
+holders of ordinary shares and Series A.” Sometimes, series A investors even
+negotiate liquidation preferences based on the price they paid
+when they financed the company plus a yearly yield of 10% or even 15%. In such a case, any remaining proceeds would again be distributed
+pro rata to all shareholders, including the investors. This clearly shows that the
+company’s management has to create a significant value
+above the invested equity. Otherwise, these founders and managers will get almost nothing
+out of a future exit.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (12).txt
+************************************************************************
+Hello! In this video, we
+will conclude our discussion on term sheets and
+shareholders’ agreements by explaining some
+particularly sensitive clauses and adding a final word on
+unity among co-founders. Let’s explore good and
+bad leaver clauses. Good leaver clauses and bad
+leaver clauses specify the terms of the potential transfer
+of all or a portion of a departing co-founder’s shares
+to the remaining shareholders depending on the reasons
+for such a departure. These clauses are also
+called early leaver clauses. The purpose of such clauses is to deter
+founders from leaving the company after an early financing round until
+critical milestones are reached. Often, these clauses aim
+to prevent the founders from departing for five years. A bad leaver is someone who is dismissed for damaging the business in some way,
+such as fraud or gross misconduct. According to the Galion Project term
+sheet introduced in the last video, “All shares held by such founder may be purchased at their nominal value by the active founders and the new
+investors, pro rata among them.” Selling your shares at a nominal value
+just means getting back the equity you invested initially
+to create the company, generally only a few thousand dollars. In other words, you just get your money back
+with absolutely no capital gain. Departing as a good leaver may
+be related to several circumstances such as death or mental
+or physical incapacity. In such a case, the other founders and
+the new investors will have a call option on all the shares of the departing
+founder at their fair market value. Such clauses are very touchy
+and founders may be cautious before accepting them in a
+shareholders’ agreement. However, even before outside
+investors and shareholders’ agreements, it is necessary for the cofounders
+to provide for the case where one of them wants
+to leave after a short time. Such a departing founder should not
+be able to keep all of his or her shares, because it would destroy the
+motivation of the remaining founders to develop the business. When the company is launched, the co-founders can therefore
+establish a rule such as, “If one of us leaves the
+company within five years, he/she will give back to the other
+founders all of his/her shares less one fifth of these shares
+per year since incorporation. The sale will be carried
+out at nominal value, pro rata among the other co-founders.” Let’s move now to rachets. Do you know what ratchets are? Ratchets are anti-dilution protections. Full ratchets allow an investor to adjust
+his or her percentage of ownership after an additional round of
+financing with a lower share price. This is called a down round. Let’s consider an early
+venture capital investor, who bought 1M shares at $2 each
+during a $2M series A financing round. If the company were to conduct
+a series B financing round with a new share price of $1, this investor would be given
+an additional 1M shares to compensate for the
+50% lower valuation. Technically, these new shares
+would be transferred at par value from the co-founders to this investor. Ratchets may lead to some paradoxes. In our example, the venture capital fund invested $2M
+during the series A financing round. If a subsequent financing round
+occurs on a pre-money valuation lower than $2M, the new pre-money valuation
+would be below the former amount of equity invested. You can understand easily that
+this would lead to a huge problem and probably tense negotiations because the founders would
+not be able to compensate the decline in valuation. Mathematically, this would
+force the co-founders to end up with a negative percentage
+of shares, which is impossible. This example is similar to what we
+saw with liquidation preferences. It shows that founders and managers have to create a significant
+value above the invested equity. Otherwise they will get almost
+nothing out of a future deal. Sometimes, VCs negotiate
+weighted average ratchet clauses. These are less harsh than full
+ratchets in the case of a down round. If a new financing round
+occurs at a lower share price, the early venture capital investors
+would receive additional shares based on a weighted average formula. With full ratchets or weighted
+average ratchet clauses, investors try to protect their
+interests in case of down rounds. This is quite logical from
+the investors’ point of view. However, as a founder of the company, you should be very cautious
+about accepting ratchet clauses because they may impact your
+ability to restructure your company if it faces hard times and
+its valuation dwindles. Are shareholders’
+agreements a paper tiger? We could analyze other important
+clauses of a shareholders’ agreement, but this is not a corporate law course. Again, you should probably
+work with a lawyer to conduct crucial negotiations. Some entrepreneurs use standard bylaws and free shareholders’ agreement
+templates to avoid legal expenses. These templates may help you
+understand several key issues, but every company is unique
+and faces specific issues. Hence these initial savings are risky and may ultimately cost
+you more than you saved. This lesson on shareholders’
+agreements is intended to warn you that you should not sign anything
+without careful consideration and legal advice, even if your
+bargaining power is weak. It also shows that co-founders
+are doomed to stay united. The departure of a co-founder
+often has huge consequences and the leaver can rarely
+keep all his or her shares. Creating a startup
+is like Hotel California, the famous song by the
+Eagles, released in 1977. The lyrics end with this line, “You can check out any time you
+like, but you can never leave!” In the end, a shareholders’
+agreement remains a paper tiger and is often difficult to enforce. In the case of litigation,
+everybody loses because this may damage
+the company’s dynamics. If problems arise between shareholders, remember, “A bad settlement is
+often better than a good trial.”
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (13).txt
+************************************************************************
+After having raised all that money, how
+do you manage all your shareholders? Well, I don't think
+I have the answers. I think that was the
+hardest part of the job. Should I consider them as partners,
+enemies, bankers, my boss? I would say partly all of this. The more you are in contact with
+them, the better you know each other, so when you raise money
+please do your due diligence. They do their due diligence, they can
+put you almost naked, I would say. But do your due diligence
+and please ask them to be in contact with some of their
+participation where they failed. Because when you're in trouble, that's
+when you see the real nature of people. The press is saying that we sold the
+company between 70 million and 120, and the press is pretty well aware of
+the number, I'm not allowed to share it, but I have this deep
+feeling that in three years I would have been able to sell it
+at 500 million, with no doubt. And the fact that the VCs have
+a different agenda from yours, even if you know they
+have to, I'm not naive, I know that at some point you have to
+get out and they want to make an exit. But when you raise
+money with a VC, it's a wedding knowing that
+you're going to divorce, so please before, get engaged,
+you know the old way, get to know your fiancé
+before getting married, because the harder the
+situation, the stronger the divorce. Thanks a lot for this testimonial.
+I have a last question. In three words, what would you
+recommend to future entrepreneurs? Listen to your heart. Great! Thanks a lot Julien.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (2).txt
+************************************************************************
+Before concluding this course, I would like to point out
+the importance of creating an efficient financial information
+system within your startup. This topic is thoroughly addressed
+in Sebastian Becker’s course, so I will simply insist on the fact that a management dashboard is essential to visualize comprehensively
+the evolution of the main financial and non-financial parameters
+of your company’s activity. If we focus on accounting
+and financial parameters, such indicators may
+include the following: sales, gross margin, EBITDA, cash
+flow, working capital requirements, break-even point, customer
+receivables and your cash position. The relevant indicators will naturally
+vary depending on your industry and your development stage. The dashboard of a company selling
+prestige loudspeakers around the world will be quite different from a biotech
+company developing a new molecule. There are a number of recipients
+of a management dashboard. The CEO and the board members will
+have access to high-level indicators and they should be able to stay informed on any strategic, commercial,
+financial or human resource aspect of their company. Functional managers will
+naturally create and receive a lot of specific
+performance indicators. Shareholders should also benefit
+from comprehensive information on the situation and
+prospects of their company, e.g. to discuss a
+proposed capital increase. This requirement for relevant
+indicators to support business and investment decisions is
+summed up by Lucien Lapasin, an experienced business angel
+and founder of an investment firm, "If you do not have this management
+visibility, you run into a wall. You are trying to drive a vehicle
+without a steering wheel or with a simple handle,
+without windshield, without fuel gauge (about
+your cash), without seatbelt, without destination/customers,
+without any map, without lights, without knowing who
+precedes you, or follows you and could overtake you! And you ask me to get on
+board with a big gas can?! This is not very serious …" What management information systems have
+you put in place in your own companies and what key indicators
+do you follow right now? Do these indicators allow you to assess
+the performance of your company and anticipate possible
+deviations from your forecasts? Let me also address
+the issue of governance. When you start a new venture, you generally cannot afford a structured
+board with specialized committees like a listed company. But successful startups set up
+impressive advisory boards immediately to benefit from relevant
+feedback and more credibility in the eyes of future investors. Tech startups may even create a
+board with prominent scientists, sometimes even Nobel prize winners. If you are currently launching a startup,
+can you name four to six people that you would like to join
+your company’s advisory board? My next recommendation would
+be to contact these people to ask them to join your board? You may be surprised by how
+many experienced business people are eager to innovate by
+proxy and accept to be part of a promising new
+venture as an advisor. My personal experience as
+an advisory board member and a board member of a listed company
+enables me to offer the following advice. A member of an advisory board should
+be experienced in your company’s industry and/or development stage. Be critical, preferably not
+in public, but benevolent. Not be egocentric and on the contrary,
+understand the dynamics of a board. Be available for regular board
+meetings and unexpected calls. Be ready to share his or her network
+and carry out ad-hoc missions. Such an advisor may not necessarily
+be your friend but has to be your ally. The compensation for such advisors may be shares, options
+or even attendance fees when the company goes public, but at the beginning most advisors
+do not get any cash payment. On the contrary, they may
+even help you raise new funds. Ultimately, the relationship among
+shareholders, the board and the CEO will be a subtle system
+of checks and balances.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (3).txt
+************************************************************************
+Now it’s time to conclude this
+entrepreneurial finance course. As you have noticed, financial issues are
+closely linked with personal tradeoffs. When we select candidates for our HEC Challenge + executive
+program for tech entrepreneurs, we ask them, among other things, where do you see your
+company in 10 years? Where do you see yourself in 10 years? What is a successful
+entrepreneur according to you? Before diving into spreadsheets, you first have to define your
+business and personal goals. Numerous surveys show that
+money is not the main driver for those who choose to take
+the leap into entrepreneurship. Instead, their key motivations are more often related to gaining
+freedom or pursuing personal development. This leads us to find the famous
+intersection, popularized by the Japanese, between what you love, what you
+are good at, what the world needs and what you can be paid for. Entrepreneurship may be a
+good way to find your “ikigai”, or in English, your purpose. By aligning passion, mission,
+profession and vocation, you can find where you are truly happy. There is often a shaky balance
+between money and ideas. Currently however, there is a lot of
+money available for brilliant ideas, which makes our era quite exciting. Beyond strategic and financial plans,
+creating and developing a new venture is above all a human adventure. Let me end this course with
+some final recommendations. Define your personal and your
+professional risk threshold. Go out into the field and
+periodically take some distance. Develop your professional network. Hold various executive and
+non-executive, i.e. as a startup advisor. Carefully select your
+associates and your employees. Sell and look at your
+cash almost every day. Strike a balance between
+independence and hyper-growth. Have fun. A new venture is not
+only risky, it’s also an adventure. Even if this may seem paradoxical, I encourage you both to be 
+realistic and to pursue your dreams. It was a pleasure for
+me to teach this course and I would like to
+thank all the colleagues who helped me create and record it. Without them, nothing
+would have been possible, like many new ventures including
+this HEC online Master’s. Goodbye, and I wish you all the best in the creation and the
+development of your new ventures.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (4).txt
+************************************************************************
+What is a capital increase? In this video, we’ll explain
+the process of a capital increase. Some of you have probably watched
+the movie The Social Network. In this movie, inspired by
+the creation of Facebook, one of the company’s
+founders, Eduardo Saverin, experiences a huge dilution when his
+shareholding plummets from 30% to 0.3%. In real life, your shares
+can become worthless in a single financial operation. Technically this is called a wash out. Finance is ruthless. Be aware that reality can
+often be even worse than the power relations depicted
+in a movie like The Social Network or in a TV series like Silicon Valley. It means that entrepreneurs must
+carefully choose their investors, but the opposite is also true. Let’s now explain the basic
+principles of a capital increase. Which of the following does
+a capital increase involve? Creating new shares, or selling existing shares
+to increase your capital. Answer 1 is correct. A capital increase consists
+of creating new shares and not selling existing ones. If your company has bright prospects, the price at which you can
+issue these new shares, may be much higher than the price
+at which you issued earlier shares. The company’s founders keep their shares but, since they generally do not invest
+in the following financing rounds, they are diluted, which means that their
+percentage of ownership diminishes. However, the founders are richer
+since the share price increases. Let us take an example
+to make this clear. If you apply this reasoning
+to your own startup, you will master these concepts
+of valuation and dilution easily, as they are not very complicated. In order to make life simpler,
+I even created an Excel tool to model the evolution of a company’s
+valuation and shareholding. This file is called IngeFi and you've probably already
+downloaded it from the platform. Let’s analyze an example of
+two successive capital increases. Let’s assume that you and your
+partners created a startup whose current capital is $15k, split into 15,000 shares
+issued for $1 each. This initial value of $1 per
+share is called the par value. Imagine that a pool of business angels
+agrees to a capital infusion of $500k in exchange for ownership
+of 25% of your company. What is therefore
+your company’s valuation and the number of new
+shares to be issued? To understand the situation, let’s compare the company’s
+shareholding with a cake. If these business angels receive
+25% of the cake for $500k, the total value of the cake must
+logically be four times larger, i.e. $2M. This $2M is called the
+post-money valuation, because this is the company’s
+value after the capital increase. Since the new investors own
+25% of the company’s equity after this capital increase,
+the founders are diluted. Their ownership percentage
+falls from 100% to 75%. The founders therefore
+get diluted by 25%. The value of the founders’ shares
+is 75% of $2M, i.e. $1.5M. This is called the pre-money valuation. The wording itself makes
+the calculation easy because pre-money plus new
+money equals post-money. Technically, the new investors
+do not buy existing shares. They receive new shares so
+that their number of shares is 25% of the total number
+of shares outstanding. Knowing that the initial
+number of shares was 15,000, you can calculate easily the number
+N of new shares to be issued by solving the following equation. N divided by N plus 15,000 equals 25%. N equals 5,000 new shares. Since the investors receive
+5,000 new shares for $500k, the new share price is $100. The par value remains $1, meaning that there is an issuance
+premium of $99 per share. At the end of this operation,
+there are 20,000 shares, each worth $100. Again, we see that the company’s
+post-money valuation is $2M. Let’s now apply this reasoning
+to a second capital increase. Imagine that your
+startup is growing quickly, and you need an additional capital
+increase to fuel such growth. After a few meetings, a venture
+capital fund negotiates a capital infusion of $2M in exchange for
+20% of your company. What are therefore your company’s
+number of new shares to be issued? Post-money valuation? Pre-money valuation? And what is the new share price? To answer these questions, let’s use
+the metaphor of the cake again. If the venture capital fund
+gets 20% of the cake for $2M, the total value of the cake
+is logically five times greater, i.e. $10M. This $10M is the company’s
+post-money valuation. Since the venture capital fund
+controls 20% of the company’s equity after this capital increase, the founders and the business
+angels are diluted by 20%, which means multiplying their
+current shareholding by 0.8. The founders’ shareholding therefore
+becomes 75% times 0.8 equals 60%. The business angels’ shareholding
+becomes 25% times 0.8 equals 20% and the rest of the cake, i.e. 20%,
+goes to the venture capital fund, as already said. The pre-money valuation of
+the company is therefore $8M, if you remember the formula pre-money
+plus new money equals post-money. Since the number of shares before
+the capital increase was 20,000, we can again compute the number
+N of new shares to be issued by solving the following equation. N divided by N plus 20,000 equals 20%. One easily finds that N
+equals 5,000 new shares. Since the VC fund receives
+5,000 shares for $2M, the new price per share is $400. The par value remains $1, meaning that the issuance
+premium is $399 per share. At the end of the operation, there
+are 25,000 shares each worth $400. We can see again that the company’s
+post-money valuation is $10M. With such computations, you can
+now analyze most capital increases, even for listed companies.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (5).txt
+************************************************************************
+Welcome back. In the previous video, we explained
+the nature and implications of a capital increase using an example
+of two successive capital increases. This example shows that a capital
+increase can usually be summarized by the creation of a given number of
+new shares and by a new share price. The number of new shares impacts the
+dilution of the existing shareholders. The new share price reflects
+the valuation of the company, since the post-money valuation
+will simply be this new share price multiplied by the number
+of shares outstanding. For a listed company, the share
+price changes continually. In the universe of private equity, the revaluation of new ventures or
+growth companies is not as frequent, but the same logic applies when it
+comes to the valuation of a company, i.e. during a capital increase. One of the main differences is, however,
+the relative absence of liquidity, which raises the exit issues already
+addressed in our previous module. Let’s now go back to the
+PriceMinister business case that we introduced
+at the end of Module 1. This company experienced a
+great variety of financial operations, financing from business angels, growth
+capital financing, mergers with peers and issuance of stock options
+for the company’s managers. Before being acquired for
+€200M by the Rakuten Group, PriceMinister’s shareholding
+was the following. The founders had a 22.5% stake. They had only invested €40k
+in exchange for 400,000 shares. The founders were diluted by 87.5%, but they received €45M from Rakuten. The business angels had a 24.4% stake. They had invested €2.7M in the
+company in the first two years and they received about
+€49M from Rakuten. The two growth capital funds
+controlled 13.7% of the company, having invested €10.7M. The managers and the other employees
+received 112,000 stock options, representing 6.3% of the
+company on a fully-diluted basis, i.e. assuming exercise
+of all the options. The beneficiaries of these options
+received about €12.6M from Rakuten. The shareholders of the
+four companies acquired controlled 33.2% of
+PriceMinister’s capital and received about €66M
+after Rakuten’s takeover. I modeled these successive
+operations in an Excel file called IngeFi-PriceMinister, where you can understand the logic
+of these successive financial operations. This file can be downloaded
+from the platform. I rounded some figures pertaining
+to the amounts invested but the number of shares
+is exactly the same as the shareholding of the real company. Even though information about the
+valuation of successive financial rounds is often confidential, I found relevant data in the
+company’s articles of incorporation, which is public information. These data helped me compute
+the successive valuations and the shareholders’ dilution. This file shows, for instance,
+that the CEO’s shareholding drops from 33% to 7.4%, but at the end these shares
+are worth nearly €15M. The initial share price was
+multiplied by more than 1,000. I hope that you are now familiar
+with the process of a capital increase and the concepts of
+valuation and dilution. In order to facilitate
+your future calculations, let me also share with you
+another tool called FastValo, which is also available on the platform. This tool comprises two tabs. The first one, called FastValo, provides numerous types
+of financial calculations. The second one, called ValFlux, shows valuations using the
+discounted cash flow method. Let’s focus on the first tab, which may help you juggle the
+financial engineering concepts which have been introduced previously,
+pre-money and post-money valuation, dilution, money-multiples
+and annual return. The first box gives you the
+annual return of an investment with a given duration
+and money-multiple, i.e. a money multiple of two
+achieved within five years corresponds to an annual yield of 14.9%. The second box computes the
+future value of an investment and the corresponding money-multiple
+for a given investment term and a given annual return. For instance, €250k invested over five
+years at an annual return rate of 22% generates €675.7k, which
+represents a money-multiple of 2.7. The third box computes the
+present value of an investment for a given future value, a given investment term
+and a given discount rate, i.e. a future value of
+€500k in five years discounted at a yearly rate of 10% corresponds to a present value of €310.5k. And so on. If you use this tool
+for your own startup, you will rapidly get familiar with the
+basic concepts of financial engineering and you will avoid confusing pre-money
+with post-money valuations, which is a very common and sometimes
+costly mistake among entrepreneurs. As you can see, understanding a
+capital increase is not very complicated from a technical point of view. However, it raises many other issues, notably the alignment of interests
+with the new shareholders, which we will discuss in the next video.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (6).txt
+************************************************************************
+Hello and welcome back. In the previous two videos, we discussed
+the process of a capital increase and the concepts of
+valuation and dilution. We will now speak about the issues and
+considerations involved in the decision to open up your company’s
+capital to outside investors. According to you, what are some reasons why an
+entrepreneur might want to open up the capital of his or her company? An entrepreneur can open up the capital
+of their company for various reasons, such as the desire to involve new talent
+in the development of the company or the need to find capital to grow. Before analysis of the opportunity
+for a capital increase, the simple distribution of capital
+at the start of a business can be very informative. This often reflects the
+willingness of an entrepreneur to surround himself or
+herself with partners and share power within
+his or her company. Some companies are created
+and run by entrepreneurs who control most or all of the capital. There are, however,
+few growth companies that can develop without
+new partners and investors whose capital contributions
+will mechanically decrease the percentage held by the founder. One serial entrepreneur
+with whom I am acquainted regularly stated that he
+surrounded himself with people who were much better
+than him in many fields and that he preferred to hold 1% of
+the capital of a multinational company than 100% of a micro-company. This preference for fast growth had
+also led him to finance his businesses via leading venture capital funds. Following the IPO of one of his
+startups five years after its inception, this CEO held only 5% of the
+capital and some stock options, but the market capitalization of
+this listed company approached €1bn. On the level of wealth creation, the option chosen was
+therefore eminently sensible. But to reach this high
+valuation of the company, this entrepreneur had
+to manage high growth and share power within
+the Board of Directors with particularly demanding investors. Most entrepreneurs however, do not create a business to
+grow it at a forced march and then sell it or go
+public five years later. Making the decision to open up your
+startup’s capital is a critical step that requires you to find and win over
+investors who share your financial goals. If you were an outside investor
+in a startup, would you prefer 1. the business to grow and go
+public or be sold in several years, or 2. to receive regular dividends? From a strictly financial point of view, two types of shareholders
+can be distinguished. Those wishing to receive regular
+dividends in return for their investment and those who hope to make a significant
+capital gain in the medium term. If your business or its stage
+of development is incompatible with the generation of distributable
+results in the form of dividends, the first category of
+investors makes no sense. The second category of investors
+will be quite able to wait a few years without any cash payouts in the
+prospect of a large capital gain to be achieved through an IPO
+or the transfer of your business. This is particularly the case
+for some business angels and by their very nature venture capital
+funds and private equity companies. These investors hope to recover
+in the space of five years more than three times
+the amount invested, but they also take the risk of
+losing their entire investment. You can welcome new
+shareholders into your company by selling some of your shares to them and so making a capital gain equal to the difference
+between the amount of the sale and the value at which you
+subscribed to these shares. Such an operation is financially
+neutral for your company which does not receive
+the proceeds of the sale. On the other hand, a
+capital increase in cash consists of appealing to investors who will bring new equity
+to develop your company. Pre-existing shareholders who do
+not subscribe to the capital increase will still hold the same
+number of shares, but they will be diluted
+as we saw previously. It is essential to validate the
+convergence of goals between shareholders. If you conduct one or
+more capital increases without subscribing to them in proportion
+to your percentage of ownership, you will be diluted like the example
+at the beginning of this lesson. In the case of
+capital-intensive activities, the founders will ultimately no
+longer have control of their company, or even a blocking minority. It is therefore essential for the
+founders that the visions and interests of the new investors
+are aligned with theirs. This was the case for PriceMinister. Opening the capital of your
+company is anything but neutral. Such an operation has many advantages, but you need to clarify
+your objectives beforehand. The drafting of a business plan,
+including credible financial forecasts, is a necessary step to
+welcome new shareholders and ensure that they are in line with
+your objectives and your strategy. Once you have decided
+to open your capital, you will also have to perform
+a valuation of your company to see on what basis to
+carry out this operation. It is desirable and even
+necessary to strike a fair deal in light of the company’s
+profitability and growth potential and the liquidity of its shares. This leads us to our next lessons, in which we will discuss startup
+valuation and shareholder agreements. I will of course share some new tools
+with you but beyond these templates, I will insist again on the necessity of
+solidarity and alignment of interests among your company’s shareholders, especially when the
+company faces hard times.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (7).txt
+************************************************************************
+Welcome to lesson 2. In the previous lesson, we discussed
+the process of a capital increase and spoke about an entrepreneur’s
+decision to open up the capital of his or her startup
+to outside investors. In these and other contexts, it is
+necessary to know how to value a company. How much is your company worth? On what valuation base can you negotiate with an investor
+or a potential acquirer? Let me share with you some ways
+to estimate the value of a company. Remember that like real estate, the ultimate value will
+depend primarily on the price that one or more buyers
+will actually agree to pay. If some companies are sold cut-price,
+others are acquired at premiums that surprise even the
+beneficiary of the sale due to their strategic value
+in the eyes of the buyer. Which indicators would you
+primarily use to value a company? Sales, EBITDA, net income, assets, working capital or future cash flows. Many valuations are based
+on sales, EBITDA or net income. These performance
+indicators are multiplied by sector-specific
+coefficients or multiples. The resultant values are then corrected for the amount of your company's
+financial liabilities and cash. Several methods are sometimes combined to get an average value
+or a valuation range. As an indication, and
+according to your industry and your company’s stage of development, the multiple applied to sales
+may vary from 0.5 to 2, or even beyond these limits. The EBITDA multiple may vary
+from 4 to 8, or even beyond. The multiple applied to net
+profit may vary from 7 to 14, or even beyond this interval. As you can begin to see from the
+magnitude of these indicative ranges, the valuation of a company
+is not an exact science. Some experts say that valuing a company is on the border of financial mathematics
+and the souk of Marrakech, although it clearly leans
+closer to the negotiation that prevails in this renowned
+Moroccan place of trade. The website of the French National
+Association of Chartered Accountants has long offered a very useful section
+devoted to the valuation of companies. This section indicates the multiple
+used by the tax administration to value several types of businesses,
+based primarily on turnover. An insurance brokerage
+company is thus generally valued at between 1 and 2
+times the annual fees. A tourist hotel, between 0.7
+and 3.2 times the turnover. A computer consulting firm, between
+0.2 and 0.5 times the turnover. A restaurant, between 0.5
+and 0.75 of the turnover and a supermarket between
+13% and 25% of its turnover. Taking future cash flow
+into account is essential. To refine your assessment, you
+can conduct another valuation that takes into account
+not only the current year, but also your medium-term
+financial forecasts. This involves discounting future
+cash flow by a rate of about 10% for a low risk company
+in a mature sector and up to 60% for a project
+that is still very risky. The discount rate is used to estimate
+the present value of future cash flow. This rate represents compensation
+both for the time value of money and for risk. It varies according to a
+company’s stage of development and the risk aversion of each investor. Thus, the present value of an asset
+that would be worth €6M in three years, applying a discount rate of 26%, is 6 / [(1 + 26/100) ^ 3] = €3M. Discounting is the reverse
+process of compounding. €3M invested for three years
+at a yearly rate of 26% will be worth €6M in the future. The discount rate and
+multiplier coefficients vary depending on your industry
+and the maturity of your business. If you apply these
+methods to your business, you will obtain a valuation range. The valuation determined with one method can sometimes be double the
+valuation determined by another, or even much more. These different valuations
+constitute a basis for reflection to determine a reasonable value. Keep in mind that there are
+three main valuation methods. An asset-based approach based on the valuation of the
+corrected net assets of a company. In addition to the debts and
+the real assets of a company, this approach takes into account
+the potential capital gains and/or losses for some assets. A comparable company
+valuation technique, based on the determination
+of the profit multiples at which similar companies are valued and the application of such 
+multiples to the sales, EBITDA or net income of the
+company of interest. A discounted cash flow, DCF analysis based on a company’s
+projected free cash flow. This approach emphasizes
+the company’s future economic and financial prospects and its
+concrete ability to generate cash. This last type of valuation
+based on free cash flow is edifying because it makes
+sense to value an activity on the basis of the
+cash it will generate. This method makes it
+possible to understand why certain startups still in deficit,
+can have considerable valuations if their potential for generating
+future cash flow is strong. However, as you will see, this valuation
+method is extremely sensitive to your margin and
+growth rate assumptions. Other valuation methods are variants
+of the previous three methods.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (8).txt
+************************************************************************
+Hello. In the last video, we introduced the main
+methods used to value a company. In this video, we will
+go into greater depth with regards to the discounted
+cash flow valuation method and end with a word on the valuation
+of tech companies and SMEs. Entrepreneurs and investors often
+dream of creating the next unicorn. This term refers to a startup
+valued at over $1bn. Some promising startups however,
+end up as “penny stocks”, meaning that they are traded
+at a very low share price and have a small market capitalization. Valuation methods based on
+multiples of sales or profits do not always apply to startups
+that burn huge amounts of cash before sometimes becoming
+real cash machines. You have heard about impressive
+valuations of former startups like ICQ, YouTube, Instagram,
+WhatsApp and Uber. Among these companies,
+some examples show that startups currently
+losing more than $1bn can nonetheless be valued
+at tens of billions of dollars. This paradox can be explained
+by the DCF valuation method, which takes expected future
+cash flow into account. Let’s see a first example
+of a DCF valuation. Let’s now go back to my
+financial tool, FastValo, which is available on the platform. We shall examine a company
+called LifeStyleRocket. The tab named ValFlux
+shows the components of a discounted cash
+flow-based valuation. The main default assumptions
+are the following. A current turnover of €250k. A yearly sales growth of 20%. An EBITDA margin of 20%. A corporate tax rate of 25%. Working capital requirements
+estimated at 16.7% of the company’s turnover. Capital expenditure of €12k,
+growing at a yearly rate of 15% and a discount rate of 15%, also called WACC or weighted
+average cost of capital. The free cash flow
+generated by this company is also called cash from operations. This free cash flow is
+calculated as EBITDA reduced by the corporate tax rate, minus CapEx and the
+change in working capital. All future free cash flow is then
+discounted at our 15% discount rate. Hence, the present value of
+the company’s free cash flow over the next 10 years is €300k, which happens to be equal to the
+forecasted amount of next year’s sales. But we also have to make an
+assumption about the free cash flow beyond the next 10 years. We assume a perpetual or
+terminal growth rate of g = 2.1% for the free cash flow and use
+the Gordon Shapiro formula, which demonstrates that
+the present value at year 10 of the future cash flow
+occurring after 10 years equals the last anticipated
+free cash flow multiplied by one plus
+this terminal growth rate. This result is then
+divided by the difference between the discount rate
+and the terminal growth rate. We then have to discount this amount to obtain the present value
+of the terminal value. If you do the math, you will find that the present value today
+of this terminal value equals €300k. Hence our company’s valuation
+would be 300 + 300 = €600k. How to explain stellar valuations? In our previous example,
+we anticipated a nice growth and a fair EBITDA margin, leading to a valuation of two times
+the company’s forecasted turnover for the next year. This is decent but far from exciting for private equity firms and
+even for business angels. If we now take the same parameters
+but assume much better profit margins and a higher growth rate of sales, what would the company’s
+valuation be? Let’s just change two parameters. Our EBITDA margin
+moves from 20% to 60%. The yearly growth rate of sales
+also changes from 20% to 60%. Please just input these new parameters
+and before viewing the result, try to guess the new valuation. If you look at the bottom
+of the spreadsheet, you will notice that our
+valuation is now about €30M€. That is 50 times higher
+than the previous valuation. With steady growth and
+high profit margins, you can change a small lifestyle
+company into a skyrocketing SME. This also demonstrates the danger
+of some valuation processes where entrepreneurs start daydreaming and forget their true
+growth and profit potential. If you play with this Excel file, you will notice the extreme
+sensitivity of DCF valuations to even slight changes
+in some key parameters such as margins, growth
+rates, tax rates, working capital requirements and,
+of course, the discount rate, also called the weighted
+average cost of capital. With these two examples, you can now understand better why
+some currently loss-making companies enjoy huge valuations, if investors and
+financial analysts believe that they will generate huge
+positive free cash flow in the future. What do we learn from tech
+exits and traditional SMEs? The financial studies of the
+investment bank Avolta Partners on startup valuation and the
+exits of European tech companies are extremely useful, since they are
+based on thousands of real transactions. These transactions are detailed
+by business model, by industry and by type of purchaser. The "Tech Exit Transaction
+Multiples Europe 2018" study indicates that tech exit transactions
+were based on a median multiple of 4.1 times the companies’
+turnover over the last 12 months. The range oscillates between
+1.6 for the first quartile and 9.2 for the third quartile. My colleague Gilles Lecointre, has carried out a great number
+of business valuations, provides a fairly robust rule-of-thumb,
+that as a first approach, values a traditional SME "once
+its past and twice its future". In other words, this valuation is the
+company’s equity plus twice its EBIT. Of course, you then subtract the
+net debt, debt minus cash available, to get the final valuation. That’s almost all for this journey in
+the fancy world of valuation methods. However, before concluding this lesson, let me just present two fast
+calculations used by VCs to negotiate startup valuations.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle (9).txt
+************************************************************************
+Welcome back. In this video, we will wrap up
+our discussion of valuation by looking at two rules of thumb
+used by VCs to negotiate valuations and by considering various factors that
+may affect a startup’s valuation range. Venture capitalists sometimes use a
+very simple rule to negotiate valuations. If they wish to control about one third
+of a startup after a capital increase, they will negotiate a
+pre-money valuation which is two times the
+new equity requested. Hence the rule pre-money
+equals two times new money. If this rule applies and if
+you are looking for $2M to develop a promising startup, investors may try to negotiate a
+pre-money valuation of around $4M. If this is the case, you should look
+for as much money as possible. There is also a
+symmetrical rule of thumb, because startup founders generally
+wish to control their company for as long as possible. They therefore try to avoid dilutions
+over 25% at each financing round to remain above 50%
+after a series B round. In our next lesson, we’ll talk
+about shareholders’ agreements. Just note at this stage
+that a series A round refers to a company's first significant
+venture capital financing round. The next round will be
+called series B, and so on. These two opposite valuation rules
+followed by VCs and founders sometimes result in a compromise
+where the VC takes an ownership stake that is between 25% and 33%. I once participated in a venture
+capital investment committee where the founders of a very
+promising social networking app enjoying a huge traction
+were looking for €5M with a pre-money valuation of €12M, which would have resulted
+in a 29.4% dilution. Despite this large pre-money valuation, the deal was strongly
+recommended by the VC because a tremendous
+upside was anticipated. Guess what? We missed the deal because another fund proposed an even higher
+pre-money valuation and therefore less
+dilution for the founders. Let’s now move to
+another VC rule of thumb, in which VCs anticipate
+their potential upside. VCs may also use a kind
+of backward calculation derived from three parameters. The expected exit value. The amount of required new equity and the desired money multiple. Using these parameters,
+a VC can calculate the appropriate pre-money
+valuation as follows. The pre-money valuation equals the exit
+value divided by the money-multiple minus new equity. The share price will be
+the pre-money valuation divided by the number
+of existing shares. Let’s take an example to
+illustrate this reasoning. Consider a startup
+requiring $2M in new equity before a potential exit. If a VC fund plans to invest $2M
+and expects an exit in five years when the startup is acquired for $15M
+and desires a money multiple of 3, the pre-money valuation required to
+achieve the VC’s desired money multiple will be 15 ÷ 3 - 2 = $3M. If there are currently 1M shares, the price of the new
+shares should be $3. You are now familiar with numerous
+valuation tools and methods, but don’t forget that other factors may have a significant
+influence on valuation, notably the economic situation and the perceived quality of a
+company’s management team. Beyond the previous
+normative approaches, the quality of the management
+is an essential valuation factor, whatever a company’s
+stage of development. Cyclical factors are also likely to impact
+significantly the valuation range. During the internet craze
+at the end of the 1990s, some financial veterans remembered
+that in a hurricane, even turkeys can fly! Unfortunately, few
+people listened to them. After the burst of the dot.com
+bubble in March 2000, many stocks that had risen on the
+equity markets plummeted in value, sometimes cut tenfold
+from their highest price. The valuation of non-listed companies
+was affected by this general depression. Such episodes are likely
+to recur in the future. One of the many challenges of
+the transfer of companies for a CEO is to succeed in developing a structure
+that will function without them when they had been busy assembling,
+oiling and supervising the operation of its smallest wheels. With the exception of the DCF approach, conventional valuation
+methods do not always explain the quasi-stratospheric valuations of companies with strategic
+assets such as patents, because the commercial development
+potential of these companies is often realized after
+five years or more. For example, a biotech company
+cannot achieve any turnover and will accumulate considerable losses
+while seeing its valuation grow steadily and reach tens of millions of euros
+because of its patent portfolio, the stage of development of its molecules and the prospects for industrial
+agreements with Big Pharma. We can conclude this lesson by saying
+that an early stage company valuation is driven more by enthusiasm and hope. Later on, this valuation
+become more rational, because it will be based on more
+tangible performance indicators. In the end, you will define a
+valuation range for your company that will include a threshold below
+which you will probably refuse any purchase offer as disadvantageous and a ceiling beyond which you will
+seriously consider selling your company because the proposed
+price is just outstanding. By mixing different valuation
+methods, you will define a price range you may choose to consider true or ignore
+according to political considerations. The debate can be framed
+by rational considerations, but the determination of the final
+price remains primarily a matter of choice and negotiation.
+
+
+c:\users\shake\documents\data\epgp\hec\ef\w4\subtitle.txt
+************************************************************************
+Welcome to the last
+lesson of this course. In the previous three
+lessons of this module, we discussed the process of a
+capital increase, valuation methods and the key features of a
+shareholders’ agreement. In this lesson, we will
+conclude our discussion of financial engineering and
+entrepreneurial finance in general. We will begin by presenting
+some financial instruments available to finance startups and will address the question
+of extreme valuation ranges. There is a wide range of
+equity-based financial instruments available to help you fund your company, ranging from what is called a SAFE,
+a simple agreement for future equity, to quite sophisticated
+pre-IPO instruments involving equity, warrants
+and convertible notes. But let’s keep it simple at this stage. Just note that a SAFE can be used
+as quick financing for your company, delaying the realization
+of a capital increase. Do you know what a SAFE is? A SAFE is not a loan or
+an equity investment. It is an agreement between
+an investor and a company, where the investor will receive shares
+as soon as a future equity investment reaches a given share price. The SAFE investor will
+generally obtain the shares at a 20% to 30% discount
+on the future share price. The agreement specifies a cap and a
+floor for the discounted share price, but the mechanism remains
+quite simple and inexpensive. It is widely used, notably by prominent startup
+accelerators such as the Y Combinator. As your company grows, you will have access to more
+sophisticated financial instruments and even if you have a
+solid financial background, you will probably have to hire
+a CFO to handle all the tasks related to financial strategy, reporting,
+risk management and planning. For example, the cofounders of
+Big Mamma hired a CFO quickly to accelerate their company’s
+growth and focus on the opening of bigger and bigger restaurants. By doing so, they have been
+able to take more vacations than most entrepreneurs and are even more
+productive and creative! Let’s also address the
+question of extreme valuations. In our previous lessons, we
+addressed standard valuation ranges based on standard
+multiples of profit levels. However, we saw that some valuations
+may be a multiple of 50 or more, when a company has
+very promising growth and future profitability prospects. The importance of a company’s
+growth and profitability prospects explains why companies with huge
+losses in 2017, like Tesla and Uber, enjoyed stellar valuations
+of tens of billions of dollars. We could take many other
+examples where valuation levels are a real leap of faith
+from enthusiastic investors. But what happens when a company
+shows less traction than expected and if its prospects become disastrous? If such a company requires
+an urgent recapitalization, on what pre-money valuation will
+the new equity investment be made? According to you, will
+such a valuation be based on the last post-money valuation, i.e. with no upside on
+the previous share price? On a lower valuation reflecting the prospects of the company
+in the absence of a recapitalization? Or, third option, simply on the book
+value of the company’s share capital, i.e. the number of shares outstanding
+multiplied by the par value? These are all relevant benchmarks
+but if your house is burning, your bargaining power to sell it on
+the spot to a bystander is quite weak, even if you are a talented negotiator. In the case of urgent recapitalization, the worst option is to find no investor. Then the company goes bankrupt and the founders and shareholders
+owning common stock generally lose everything. But there is a second, worse
+option, called a wash out, when all the existing
+shares become worthless and the new investors
+control the whole company. I experienced a wash out in a Silicon
+Valley startup, created by a friend. After the burst of the internet bubble, this was the only way
+to save the company and I learned the meaning
+of two financial sayings. “Pay to play.” “Old money is old money.
+New money is new money.” The existing shareholders
+would have lost everything if they had not participated
+in the new financing round. As a board member, I could only save my friend, who
+was the CEO of the company. I suggested a resolution that
+if the company were sold, the CEO would get 10% of the deal, which was a 10% stake of preferred
+shares, on a fully diluted base. The board, which was controlled
+by the new investors, accepted, but only because the CEO was essential
+to the company’s development. Otherwise, the CEO would have
+been fired without hesitation and so would I, as a
+simple board member. Ultimately, this company was acquired, and the CEO got
+something out of the deal. Guess what, he founded another startup, which is often the case for
+passionate entrepreneurs. As we have already seen,
+finance can be ruthless and in some cases, you may be happy
+to be supported by fair investors, so long as they continue to
+believe in you and your company.
+
